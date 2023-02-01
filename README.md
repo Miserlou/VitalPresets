@@ -6,4 +6,4 @@ Lots of Drum and Bass/Trap/Noise/"Bass Music"/IDK. Some utilities (white noise r
 
 ## Download
 
-You can download this repo as a zip file [by clicking here](Miserlou/VitalPresets). Put it in a folder where you keep your vital packs, ex `/Users/yourusername/Music/Vital` on OSX.
+You can download this repo as a zip file [by clicking here](https://github.com/Miserlou/VitalPresets/zipball/master/). Put it in a folder where you keep your vital packs, ex `/Users/yourusername/Music/Vital` on OSX.
